@@ -1,5 +1,2 @@
-setup_env.py
 3000-env
 .DS_Store
-*.csv
-.venv
