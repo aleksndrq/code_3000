@@ -6,3 +6,5 @@ In all honestly, if this repository got in the hands of ann attacker than the ri
 
 # steps you've taken to secure your repo (e.g., a CODEOWNERS file, rulesets for pull requests, etc.), or a statement of why that is not necessary.
 The steps I used to secure my repo is use the provided JSON file given on HUSKYCT. This file was then added to the github repository and will be in the ruleset and active. Iused the file "Pull request approvals" and it makes it so that people who dont have perrmisson can not delete branches, can't force pushes, you have to go through a pull request. It adds security measures that were not originally there. 
+
+
